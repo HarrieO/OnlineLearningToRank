@@ -10,8 +10,7 @@ If you use this code to produce results for your scientific publication, please 
 @inproceedings{Oosterhuis2018Unbiased,
   title={Differentiable Unbiased Online Learning to Rank},
   author={Oosterhuis, Harrie and de Rijke, Maarten},
-  booktitle={CIKM},
-  volume={2018},
+  booktitle={Proceedings of the 2017 ACM on Conference on Information and Knowledge Management},
   year={2018},
   organization={ACM}
 }
