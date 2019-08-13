@@ -4,7 +4,7 @@ This repository contains the code used for the experiments in "Differentiable Un
 Citation
 --------
 
-If you use this code to produce results for your scientific publication, please refer to our CIKM 2018 paper:
+If you use this code to produce results for your scientific publication, or if you share a copy or fork, please refer to our CIKM 2018 paper:
 
 ```
 @inproceedings{Oosterhuis2018Unbiased,
