@@ -29,5 +29,5 @@ python scripts/CIKM2018.py --data_sets cikm2018 --click_models per nav inf --log
 ```
 This runs all experiments included in the results section of our paper. 
 It is up to the user to download the datasets and link to them in the [dataset collections](utils/datasetcollections.py) file.
-The output folders including the folder where the data will be stored (in this case testoutput/fullruns/) has to exist before running the code, if folders are missing an error message will indicate this.
+The output folders including the folder where the data will be stored (in this case *testoutput/fullruns/*) has to exist before running the code, if folders are missing an error message will indicate this.
 Speeding up the simulations can be done by allocating more processes using the *n_proc* flag.
